@@ -2,7 +2,7 @@
 *Working URL:* https://tictactoe.z13.web.core.windows.net/
 
 ## Synopsis
-Tic-Tac-Toe is a web application based on a famous game known as "**Chidiya Kaanta**" (in Hindi). It has been developed using HTML, CSS and JavaScript and has been deployed on Microsoft's Azure platform.
+Tic Tac Toe is a web application based on a famous game known as "**Chidiya Kaanta**" (in Hindi). It has been developed using HTML, CSS and JavaScript and has been deployed on Microsoft's Azure platform.
 
 ## Deployment Steps Followed
 I have deployed a static website (that is, Calculator) on Azure using Azure Storage accounts after logging into [Azure portal](https://portal.azure.com/).
